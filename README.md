@@ -1,7 +1,6 @@
-# elk-cloudtrail
-<i>ELK v5 stack for CloudTrail logs (Amazon Web Services API calls)</i>
+<p align="center"><img src="https://github.com/prasenforu/elk-cloudtrail/blob/master/images/elk-cloudtrail.png" /></p>
 
-![Alt text](https://github.com/prasenforu/elk-cloudtrail/blob/master/images/elk-cloudtrail.png "Overview") 
+> ELK stack to fetch CloudTrail logs 
 
 Docker images:
 
